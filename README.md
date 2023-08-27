@@ -208,6 +208,7 @@
 | Name | Description | Version |
 | --- | --- | --- |
 | [AdventureZ](https://modrinth.com/mod/adventurez) | adds a new endboss and other creatures | [1.4.18](https://modrinth.com/mod/adventurez/versions?l=fabric&g=1.19.2) |
+| [Botania](https://modrinth.com/mod/botania) | An innovative natural magic themed tech mod | [1.19.2-440-fabric](https://modrinth.com/mod/botania/versions?l=fabric&g=1.19.2) |
 | [Create](https://modrinth.com/mod/create-fabric) | Building Tools and Aesthetic Technology | [0.5.1-b-build.1089\_mc1.19.2_](https://modrinth.com/mod/create-fabric/versions?l=fabric&g=1.19.2) |
 | [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry-fabric) | Automatic Enchanting, with Create | [1.0.0](https://modrinth.com/mod/create-enchantment-industry-fabric/versions?l=fabric&g=1.19.2) |
 | [Create Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | Adding depth to Create's rail network & steam system | [1.4.3+fabric-mc1.19.2](https://modrinth.com/mod/create-steam-n-rails/versions?l=fabric&g=1.19.2) |
